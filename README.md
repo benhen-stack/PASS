@@ -2,7 +2,7 @@
 
 # PASS
 
-### Potential-Aware Semantic Synthesis for Time-Series Forecasting
+### Potential-Aware Semantic Synthesis for Time-Series
 
 **Ben Hen** · **Neta Rabin**
 School of Industrial & Intelligent Systems Engineering, Tel-Aviv University
