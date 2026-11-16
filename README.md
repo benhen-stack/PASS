@@ -235,14 +235,4 @@ The only stochastic element is the neighbour draw, fixed by `--seed` (default
 42). The downstream forecaster involves no gradient-based training and so adds
 no optimisation noise of its own. `profiling.py` records per-stage wall-clock
 time, call counts, token usage and peak memory for every run.
-
-## Citation
-
-```bibtex
-@article{hen2026pass,
-  title   = {Potential-Aware Semantic Synthesis (PASS) for Time-Series Forecasting},
-  author  = {Hen, Ben and Rabin, Neta},
-  journal = {Knowledge-Based Systems},
-  year    = {2026}
-}
 ```
